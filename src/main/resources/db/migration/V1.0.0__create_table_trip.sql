@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS trips_tb (
+    trip_id UUID NOT NULL PRIMARY KEY
+);
